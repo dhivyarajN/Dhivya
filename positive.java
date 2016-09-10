@@ -2,7 +2,7 @@ public class Positive {
 public static void main(Strings[] arg) {
 Scanner try = new Scanner(System.in); 
 System.out.println("enter the number");
-int number= try.nextInt();
+int num= try.nextInt();
 {
 if(num=0)
 {
