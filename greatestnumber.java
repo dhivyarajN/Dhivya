@@ -9,7 +9,7 @@ b=s.nextInt();
 c=s.nextInt();
 if(a>=b&&a>=c)||(b>=a&&b>=c)||(c>=a&&c>=b)
 {
-System.out.println("largest number");
+System.out.println("largest number",+a,+b,+c);
 else
 System.out.println("not");
 }}}
